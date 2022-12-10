@@ -1,6 +1,6 @@
 # bash-examples repo
 #### **clear-ochistka ekrana termenala**
-mkdir-sozdanie papki(obizatelno nujno nazvanie posle mkdir)
+#### ~~mkdir-sozdanie papki(obizatelno nujno nazvanie posle mkdir)~~
 rmdir-udalenie papki(obizatelno nujno nazvanie posle rmdir)
 per="vasya" posle mkdir $per posle ls
 ls-pokazat papki tekushego kotaloga
