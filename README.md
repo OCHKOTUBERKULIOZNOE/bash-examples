@@ -1,7 +1,7 @@
 # bash-examples repo
-#### **clear-ochistka ekrana termenala**
-#### ~~mkdir-sozdanie papki(obizatelno nujno nazvanie posle mkdir)~~
-#### _rmdir-udalenie papki(obizatelno nujno nazvanie posle rmdir)_
+## **clear-ochistka ekrana termenala**
+## ~~mkdir-sozdanie papki(obizatelno nujno nazvanie posle mkdir)~~
+## _rmdir-udalenie papki(obizatelno nujno nazvanie posle rmdir)_
 per="vasya" posle mkdir $per posle ls
 ls-pokazat papki tekushego kotaloga
 pwd-pokazivaet domashnii kotalog tekushego polzovatelia
