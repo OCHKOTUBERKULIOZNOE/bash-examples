@@ -14,6 +14,12 @@
 ### **_curl_-pokazat ili zagruzit soderjimoe url(ssilka websaita)**
 ### **_text > textfile_ - zapisat v fail**
 ### **_text >> textfile_ - dopisat v fail**
+###                          _nowoe_
+### **_cd_-peremestitsia v direktoriu**
+### **_cd .._-peremestitsia v direktoriu urovnem vishe**
+### **_cd /_-peremestitsia v kornevuiu direktoriu**
+### **_/_-kornevaia direktoria**
+### **_cd ~/ i najat tab_-pokazivaiet vse direktorii i ix faili**
 
 Oformit text: 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
