@@ -40,6 +40,7 @@
 **_/_-kornevaia direktoria**
 
 **_cd ~/ i najat tab_-pokazivaiet vse direktorii i ix faili**
+
 **_wget_-zagrujaet soderjimoe url**
 
 Oformit text: 
